@@ -1,0 +1,56 @@
+NAME_MODULE = kswapd_monitor
+
+# Если KERNELRELEASE определён, значит вызов сделан из системы сборки ядра.
+ifneq ($(KERNELRELEASE),)
+	obj-m := $(NAME_MODULE).o
+# Иначе вызов сделан прямо из командной строки - вызвать систему сборки ядра.
+# KDIR - дерево исходных кодов ядра
+# -C - смена своего каталога на указанный опцией (т.е на каталог исходных кодов ядра)
+# там находит Makefile верхнего уровня ядра
+# M= заставляет вернуться обратно в директорию исходников модуля, прежде чем попытаться построить целевой модуль
+# ссылается на список модулей в obj-m
+else
+	echo $(MAKE) -C $(KDIR) M=$(PWD) modules
+	$(MAKE) -C $(KDIR) M=$(PWD) modules
+	make clean
+
+default:
+	@echo "Building kswapd_monitor module..."
+	$(MAKE) -C $(KDIR) M=$(PWD) modules
+	@echo "Module built successfully"
+
+load:
+	@echo "Loading module..."
+	sudo insmod $(NAME_MODULE).ko 
+	@echo "Module loaded. Check /proc/memory_info/"
+	
+unload:
+	@echo "Unloading module..."
+	sudo rmmod $(NAME_MODULE).ko
+	@echo "Module unloaded"
+	
+test:
+	@echo "=== Testing module ==="
+	@echo "1. Reading general info:"
+	@cat /proc/memory_info/kswapd_status 2>/dev/null || echo "Module not loaded"
+	@echo ""
+	@echo "2. Monitoring specific process (e.g., init):"
+	@echo "1" | sudo tee /proc/memory_info/kswapd_status > /dev/null 2>&1
+	@cat /proc/memory_info/kswapd_status | head -20 2>/dev/null || true
+	@echo ""
+	@echo "3. Resetting to show all info:"
+	@echo "-1" | sudo tee /proc/memory_info/kswapd_status > /dev/null 2>&1
+
+logs:
+	sudo dmesg | tail -20
+
+clean:
+	@rm -f *.o .*.cmd .*.flags *.mod.c *.order
+	@rm -f .*.*.cmd *~ *.*~ TODO.*
+	@rm -fR .tmp*
+	@rm -rf .tmp_versions
+	
+disclean: clean
+	@-sudo rmmod $(NAME_MODULE).ko 2>/dev/null || true
+	@rm -f *.ko *.symvers *.mod
+endif
