@@ -27,7 +27,12 @@ load:
 	sudo insmod $(NAME_MODULE).ko 
 	
 res:
-	sudo dmesg |  tail -n500 | grep + > resdata4.txt
+	sudo dmesg |  tail -n500 > resdata4.txt
+# | grep + > resdata4.txt
+
+.PHONY: stats
+stats:
+	cat /proc/kswapd_stats
 
 clean:
 	@rm -f *.o .*.cmd .*.flags *.mod.c *.order
@@ -39,3 +44,7 @@ disclean: clean
 	@sudo rmmod $(NAME_MODULE).ko
 	@rm *.ko *.symvers
 endif 
+
+.PHONY: bench
+bench:
+	stress-ng --vm 4 --vm-bytes 8G --timeout 5s

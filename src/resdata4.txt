@@ -1,0 +1,500 @@
+[ 4621.103262] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500315 pages
+[ 4621.103264] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.103265] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.103272] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.103275] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.103276] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500315 pages
+[ 4621.103277] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.103284] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.103288] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500315 pages
+[ 4621.103295] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.103298] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500315 pages
+[ 4621.103316] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.103320] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.103334] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.103337] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.103339] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.103343] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500315 pages
+[ 4621.103377] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.103380] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.103393] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.103395] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.103405] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.103407] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.103495] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.103500] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500315 pages
+[ 4621.103502] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.103507] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.103509] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.103522] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.103524] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.103534] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.103537] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.103547] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.103549] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.103554] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500315 pages
+[ 4621.103562] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.103563] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.103566] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.103567] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500315 pages
+[ 4621.103575] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.103577] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.103578] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500315 pages
+[ 4621.103580] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.103586] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.103590] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500315 pages
+[ 4621.103598] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.103632] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500315 pages
+[ 4621.103641] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.103684] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500315 pages
+[ 4621.103691] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.103694] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500315 pages
+[ 4621.103700] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.103703] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500315 pages
+[ 4621.103709] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.103712] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500315 pages
+[ 4621.103748] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.103752] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500315 pages
+[ 4621.103797] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.103801] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500347 pages
+[ 4621.103807] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.103810] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500347 pages
+[ 4621.103816] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.103819] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500347 pages
+[ 4621.103825] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.103835] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.103838] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.103851] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.103853] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.103865] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.103865] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500347 pages
+[ 4621.103869] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.103882] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.103884] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.103911] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.103915] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500347 pages
+[ 4621.103933] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.103937] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.103951] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.103952] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.103954] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.103956] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500347 pages
+[ 4621.103969] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.103972] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.103982] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.103984] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.104014] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104018] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500347 pages
+[ 4621.104024] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104027] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500347 pages
+[ 4621.104033] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104036] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500347 pages
+[ 4621.104041] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.104043] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104044] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.104058] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.104061] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.104077] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500347 pages
+[ 4621.104084] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104087] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500347 pages
+[ 4621.104093] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104096] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500347 pages
+[ 4621.104102] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104105] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500347 pages
+[ 4621.104127] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.104130] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.104141] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.104144] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.104155] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.104158] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.104172] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.104174] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.104193] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104195] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500347 pages
+[ 4621.104202] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104204] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500347 pages
+[ 4621.104209] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104213] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500347 pages
+[ 4621.104220] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104223] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500347 pages
+[ 4621.104226] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.104229] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.104231] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104239] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.104242] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.104283] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500347 pages
+[ 4621.104287] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.104290] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.104291] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104294] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500347 pages
+[ 4621.104301] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104304] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500347 pages
+[ 4621.104307] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.104311] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.104346] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104349] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500347 pages
+[ 4621.104355] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.104356] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104358] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32211 pages, RSS=500347 pages
+[ 4621.104360] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32211 pages, RSS=11287 pages
+[ 4621.104372] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104375] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500347 pages
+[ 4621.104428] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104505] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500347 pages
+[ 4621.104515] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104518] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500347 pages
+[ 4621.104525] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104527] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500347 pages
+[ 4621.104533] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104536] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500347 pages
+[ 4621.104542] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104545] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500347 pages
+[ 4621.104596] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104599] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500347 pages
+[ 4621.104606] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104609] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500347 pages
+[ 4621.104616] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104620] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500347 pages
+[ 4621.104678] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104682] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500347 pages
+[ 4621.104690] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104693] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.104699] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104701] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.104755] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104793] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.104803] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104928] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.104937] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104940] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.104947] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104949] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.104956] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.104959] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.105007] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.105011] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.105020] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.105023] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.105029] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.105032] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.105070] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.105074] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.105082] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.105085] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.105140] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.105143] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.105150] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.105152] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.105159] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.105162] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.105169] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.105212] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.105220] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.105223] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.105229] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.105231] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.105238] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.105240] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.105252] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.105255] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.105261] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.105264] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.105270] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.105305] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.105312] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.105315] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.105322] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.105325] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32097 pages, RSS=500379 pages
+[ 4621.105401] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.105403] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=31812 pages, RSS=500379 pages
+[ 4621.105407] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.105409] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=31812 pages, RSS=500379 pages
+[ 4621.106862] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17574]
+[ 4621.106867] kswapd_monitor: kswapd wakeup by stress-ng-vm[17574], order=1, free=31926 pages, RSS=360062 pages
+[ 4621.106871] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17574]
+[ 4621.106874] kswapd_monitor: kswapd wakeup by stress-ng-vm[17574], order=1, free=31983 pages, RSS=360062 pages
+[ 4621.106878] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17574]
+[ 4621.106880] kswapd_monitor: kswapd wakeup by stress-ng-vm[17574], order=0, free=31983 pages, RSS=360062 pages
+[ 4621.106884] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17574]
+[ 4621.106886] kswapd_monitor: kswapd wakeup by stress-ng-vm[17574], order=0, free=31983 pages, RSS=360062 pages
+[ 4621.107113] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17574]
+[ 4621.107116] kswapd_monitor: kswapd wakeup by stress-ng-vm[17574], order=1, free=31983 pages, RSS=360062 pages
+[ 4621.107119] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17574]
+[ 4621.107122] kswapd_monitor: kswapd wakeup by stress-ng-vm[17574], order=1, free=32040 pages, RSS=360062 pages
+[ 4621.107155] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.107160] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.107184] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.107188] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.107269] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.107285] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.107293] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.107296] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.107302] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.107305] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.107312] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.107315] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.107367] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.107371] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.107389] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.107392] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.107398] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.107401] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.107409] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.107601] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.107612] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.107615] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.107621] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.107679] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.107688] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.107690] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.107740] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.107744] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.107751] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.107754] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.107820] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.107824] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500315 pages
+[ 4621.107831] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.107834] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500315 pages
+[ 4621.107840] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.107843] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500315 pages
+[ 4621.107861] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.107865] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.107922] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.107926] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.107971] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.107975] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.107996] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.108000] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.108006] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.108053] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.108061] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.108202] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[17594]
+[ 4621.108206] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[17594], order=0, free=32096 pages, RSS=11287 pages
+[ 4621.108244] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[17594]
+[ 4621.108248] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[17594], order=0, free=31982 pages, RSS=11287 pages
+[ 4621.108252] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[17594]
+[ 4621.108255] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[17594], order=0, free=31982 pages, RSS=11287 pages
+[ 4621.108268] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=31982 pages, RSS=500347 pages
+[ 4621.108271] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.108274] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=31982 pages, RSS=500347 pages
+[ 4621.110407] kswapd_monitor: KPROBE TRIGGERED! Current: in:imklog[1608]
+[ 4621.110412] kswapd_monitor: kswapd wakeup by in:imklog[1608], order=0, free=31982 pages, RSS=11287 pages
+[ 4621.110416] kswapd_monitor: KPROBE TRIGGERED! Current: in:imklog[1608]
+[ 4621.110419] kswapd_monitor: kswapd wakeup by in:imklog[1608], order=0, free=31982 pages, RSS=11287 pages
+[ 4621.111566] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17575]
+[ 4621.111572] kswapd_monitor: kswapd wakeup by stress-ng-vm[17575], order=0, free=31982 pages, RSS=524475 pages
+[ 4621.111702] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17575]
+[ 4621.111705] kswapd_monitor: kswapd wakeup by stress-ng-vm[17575], order=0, free=31925 pages, RSS=524107 pages
+[ 4621.111851] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17575]
+[ 4621.111855] kswapd_monitor: kswapd wakeup by stress-ng-vm[17575], order=0, free=31925 pages, RSS=523595 pages
+[ 4621.111989] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17575]
+[ 4621.111993] kswapd_monitor: kswapd wakeup by stress-ng-vm[17575], order=0, free=31925 pages, RSS=523083 pages
+[ 4621.112126] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17575]
+[ 4621.112130] kswapd_monitor: kswapd wakeup by stress-ng-vm[17575], order=0, free=31925 pages, RSS=522571 pages
+[ 4621.112221] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17575]
+[ 4621.112223] kswapd_monitor: kswapd wakeup by stress-ng-vm[17575], order=0, free=31925 pages, RSS=522059 pages
+[ 4621.112390] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17575]
+[ 4621.112394] kswapd_monitor: kswapd wakeup by stress-ng-vm[17575], order=0, free=31925 pages, RSS=521547 pages
+[ 4621.112484] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17575]
+[ 4621.112487] kswapd_monitor: kswapd wakeup by stress-ng-vm[17575], order=0, free=32211 pages, RSS=521035 pages
+[ 4621.112499] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112504] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32268 pages, RSS=500347 pages
+[ 4621.112510] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112512] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32268 pages, RSS=500347 pages
+[ 4621.112556] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112559] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32154 pages, RSS=500347 pages
+[ 4621.112564] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112566] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32154 pages, RSS=500347 pages
+[ 4621.112580] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112582] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32154 pages, RSS=500347 pages
+[ 4621.112587] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112589] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32154 pages, RSS=500347 pages
+[ 4621.112615] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17575]
+[ 4621.112618] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112619] kswapd_monitor: kswapd wakeup by stress-ng-vm[17575], order=0, free=32154 pages, RSS=520523 pages
+[ 4621.112630] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32154 pages, RSS=500347 pages
+[ 4621.112635] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112638] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32154 pages, RSS=500347 pages
+[ 4621.112642] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112645] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32154 pages, RSS=500347 pages
+[ 4621.112649] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112651] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32154 pages, RSS=500347 pages
+[ 4621.112656] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112658] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32154 pages, RSS=500347 pages
+[ 4621.112664] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112666] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32154 pages, RSS=500347 pages
+[ 4621.112671] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112670] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17576]
+[ 4621.112674] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32154 pages, RSS=500347 pages
+[ 4621.112674] kswapd_monitor: kswapd wakeup by stress-ng-vm[17576], order=1, free=32154 pages, RSS=398806 pages
+[ 4621.112679] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112682] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.112687] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112689] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.112694] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112696] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.112701] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112704] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.112734] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112737] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.112742] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112744] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.112745] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17575]
+[ 4621.112749] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112749] kswapd_monitor: kswapd wakeup by stress-ng-vm[17575], order=0, free=32096 pages, RSS=520011 pages
+[ 4621.112751] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.112757] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112759] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.112764] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112766] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.112771] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112774] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.112802] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112814] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.112820] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112822] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.112827] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112829] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.112834] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112835] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17575]
+[ 4621.112836] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.112839] kswapd_monitor: kswapd wakeup by stress-ng-vm[17575], order=0, free=32096 pages, RSS=519499 pages
+[ 4621.112841] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112844] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.112867] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[17594]
+[ 4621.112870] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[17594], order=0, free=32096 pages, RSS=11287 pages
+[ 4621.112849] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112884] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[17594]
+[ 4621.112888] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[17594], order=0, free=32096 pages, RSS=11287 pages
+[ 4621.112893] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.112899] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112900] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[17594]
+[ 4621.112902] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.112904] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[17594], order=0, free=32096 pages, RSS=11287 pages
+[ 4621.112911] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112913] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.112916] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[17594]
+[ 4621.112918] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112919] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[17594], order=0, free=32096 pages, RSS=11287 pages
+[ 4621.112921] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.112922] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17575]
+[ 4621.112925] kswapd_monitor: kswapd wakeup by stress-ng-vm[17575], order=0, free=32096 pages, RSS=518987 pages
+[ 4621.112926] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112928] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.112932] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[17594]
+[ 4621.112933] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.112935] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.112935] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[17594], order=0, free=32096 pages, RSS=11287 pages
+[ 4621.112947] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[17594]
+[ 4621.112950] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[17594], order=0, free=32096 pages, RSS=11287 pages
+[ 4621.112963] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[17594]
+[ 4621.112966] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[17594], order=0, free=32096 pages, RSS=11287 pages
+[ 4621.112979] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[17594]
+[ 4621.112983] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[17594], order=0, free=32096 pages, RSS=11287 pages
+[ 4621.113004] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[17594]
+[ 4621.113007] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[17594], order=0, free=32096 pages, RSS=11287 pages
+[ 4621.113021] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[17594]
+[ 4621.113024] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[17594], order=0, free=32096 pages, RSS=11287 pages
+[ 4621.113027] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17575]
+[ 4621.113030] kswapd_monitor: kswapd wakeup by stress-ng-vm[17575], order=0, free=32096 pages, RSS=518475 pages
+[ 4621.113037] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[17594]
+[ 4621.113041] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[17594], order=0, free=32096 pages, RSS=11287 pages
+[ 4621.113055] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[17594]
+[ 4621.113058] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[17594], order=0, free=32096 pages, RSS=11287 pages
+[ 4621.113070] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[17594]
+[ 4621.113072] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[17594], order=0, free=32096 pages, RSS=11287 pages
+[ 4621.113059] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113085] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[17594]
+[ 4621.113088] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[17594], order=0, free=32096 pages, RSS=11287 pages
+[ 4621.113100] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[17594]
+[ 4621.113103] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[17594], order=0, free=32096 pages, RSS=11287 pages
+[ 4621.113115] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[17594]
+[ 4621.113117] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[17594], order=0, free=32096 pages, RSS=11287 pages
+[ 4621.113127] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17575]
+[ 4621.113129] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[17594]
+[ 4621.113130] kswapd_monitor: kswapd wakeup by stress-ng-vm[17575], order=0, free=32096 pages, RSS=517963 pages
+[ 4621.113132] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[17594], order=0, free=32096 pages, RSS=11287 pages
+[ 4621.113143] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[17594]
+[ 4621.113146] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[17594], order=0, free=32096 pages, RSS=11287 pages
+[ 4621.113174] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.113182] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113184] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.113189] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113191] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.113196] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113198] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.113203] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113206] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.113211] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113215] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17575]
+[ 4621.113218] kswapd_monitor: kswapd wakeup by stress-ng-vm[17575], order=0, free=32096 pages, RSS=517451 pages
+[ 4621.113235] kswapd_monitor: KPROBE TRIGGERED! Current: Compositor[5482]
+[ 4621.113241] kswapd_monitor: kswapd wakeup by Compositor[5482], order=0, free=32096 pages, RSS=123632 pages
+[ 4621.113245] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500347 pages
+[ 4621.113251] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113254] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500315 pages
+[ 4621.113259] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113261] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500315 pages
+[ 4621.113266] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113268] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500315 pages
+[ 4621.113296] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113299] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500315 pages
+[ 4621.113304] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113305] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17575]
+[ 4621.113306] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500315 pages
+[ 4621.113309] kswapd_monitor: kswapd wakeup by stress-ng-vm[17575], order=0, free=32096 pages, RSS=516939 pages
+[ 4621.113311] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113313] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500315 pages
+[ 4621.113315] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.113318] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113318] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=32096 pages, RSS=11287 pages
+[ 4621.113321] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500315 pages
+[ 4621.113327] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113329] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500315 pages
+[ 4621.113464] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17575]
+[ 4621.113468] kswapd_monitor: kswapd wakeup by stress-ng-vm[17575], order=0, free=32096 pages, RSS=516427 pages
+[ 4621.113486] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113490] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500283 pages
+[ 4621.113497] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113499] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500283 pages
+[ 4621.113504] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113506] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500283 pages
+[ 4621.113511] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113513] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500283 pages
+[ 4621.113518] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113547] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500283 pages
+[ 4621.113552] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17575]
+[ 4621.113554] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113555] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500283 pages
+[ 4621.113556] kswapd_monitor: kswapd wakeup by stress-ng-vm[17575], order=0, free=32096 pages, RSS=515915 pages
+[ 4621.113561] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113563] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500283 pages
+[ 4621.113568] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113570] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500283 pages
+[ 4621.113575] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113577] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500283 pages
+[ 4621.113614] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113617] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500315 pages
+[ 4621.113622] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113624] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500315 pages
+[ 4621.113629] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113631] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500315 pages
+[ 4621.113636] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113639] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500315 pages
+[ 4621.113642] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17575]
+[ 4621.113645] kswapd_monitor: kswapd wakeup by stress-ng-vm[17575], order=0, free=32096 pages, RSS=515403 pages
+[ 4621.113647] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113681] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500315 pages
+[ 4621.113687] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113690] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=32096 pages, RSS=500315 pages
+[ 4621.113702] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113704] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=31925 pages, RSS=500315 pages
+[ 4621.113706] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17573]
+[ 4621.113708] kswapd_monitor: kswapd wakeup by stress-ng-vm[17573], order=0, free=31925 pages, RSS=500315 pages
+[ 4621.113821] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.113826] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=31925 pages, RSS=11287 pages
+[ 4621.113830] kswapd_monitor: KPROBE TRIGGERED! Current: rs:main Q:Reg[1610]
+[ 4621.113832] kswapd_monitor: kswapd wakeup by rs:main Q:Reg[1610], order=0, free=31925 pages, RSS=11287 pages
+[ 4621.140331] kswapd_monitor: KPROBE TRIGGERED! Current: stress-ng-vm[17574]
+[ 4621.140357] kswapd_monitor: kswapd wakeup by stress-ng-vm[17574], order=0, free=97141 pages, RSS=360446 pages
+[ 4622.004209] systemd-journald[461]: Under memory pressure, flushing caches.

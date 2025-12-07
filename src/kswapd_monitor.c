@@ -1,7 +1,5 @@
 /*
  * Модуль мониторинга активности kswapd с привязкой к процессам
- * Автор: [Ваше имя]
- * Дата: [Дата]
  */
 
 #include <linux/module.h>
@@ -24,7 +22,7 @@
 #define MODULE_NAME "kswapd_monitor"
 #define MAX_EVENTS 1000
 #define PROC_FILENAME "kswapd_stats"
-#define MEM_THRESHOLD_MB 100  // Порог для "тяжелых" процессов (100 МБ)
+#define MEM_THRESHOLD_MB 10  // Порог для "тяжелых" процессов (100 МБ)
 
 /* Структура для хранения события kswapd */
 struct kswapd_event {
@@ -139,25 +137,25 @@ static int kprobe_handler(struct kprobe *p, struct pt_regs *regs)
     enum zone_type zone_idx;
     
     /* Получаем параметры из регистров (для x86_64) */
-#if defined(CONFIG_X86_64)
+// #if defined(CONFIG_X86_64)
     zone = (struct zone *)regs->di;
     gfp_flags = (gfp_t)regs->si;
     order = (int)regs->dx;
     zone_idx = (enum zone_type)regs->cx;
-#elif defined(CONFIG_X86)
-    /* Для 32-битного x86 параметры передаются на стеке */
-    /* Здесь нужна более сложная логика для получения параметров */
-    zone = NULL;
-    gfp_flags = 0;
-    order = 0;
-    zone_idx = 0;
-#else
-    /* Для других архитектур */
-    zone = NULL;
-    gfp_flags = 0;
-    order = 0;
-    zone_idx = 0;
-#endif
+// #elif defined(CONFIG_X86)
+//     /* Для 32-битного x86 параметры передаются на стеке */
+//     /* Здесь нужна более сложная логика для получения параметров */
+//     zone = NULL;
+//     gfp_flags = 0;
+//     order = 0;
+//     zone_idx = 0;
+// #else
+//     /* Для других архитектур */
+//     zone = NULL;
+//     gfp_flags = 0;
+//     order = 0;
+//     zone_idx = 0;
+// #endif
     
     /* Получаем количество свободных страниц в зоне */
     if (zone) {
